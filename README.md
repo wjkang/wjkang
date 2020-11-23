@@ -7,5 +7,8 @@
   <a href="https://github.com/lowcoding/lowcode-vscode">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lowcoding&repo=lowcode-vscode&show_owner=true" />
   </a>
+ <a href="https://github.com/lowcoding/lowcode-mock">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lowcoding&repo=lowcode-mock&show_owner=true" />
+  </a>
 </>
 
