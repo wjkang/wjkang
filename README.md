@@ -16,6 +16,5 @@
   <a href="https://github.com/lowcode-scaffold/lowcode-materials">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lowcode-scaffold&repo=lowcode-materials&show_owner=true" />
   </a>
- <a></a>
 </>
 
