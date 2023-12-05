@@ -4,14 +4,14 @@
       <td>
         <a href="https://wjkang.github.io/">
           <img
-            src="https://github-readme-stats.vercel.app/api?username=wjkang&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&count_private=true"
+            src="https://github-readme-stats.vercel.app/api?username=wjkang&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&count_private=true&hide_border=true"
           />
         </a>
       </td>
       <td>
         <a href="https://juejin.cn/user/1767670426385528">
           <img
-            src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=1767670426385528"
+            src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=1767670426385528&hide_border=true"
             alt="若邪的掘金数据"
             style="zoom: 100%"
             align="left"
