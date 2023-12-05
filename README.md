@@ -11,7 +11,7 @@
       <td>
         <a href="https://juejin.cn/user/1767670426385528">
           <img
-            src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=1767670426385528&hide_border=false"
+            src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=1767670426385528"
             alt="若邪的掘金数据"
             style="zoom: 100%"
             align="left"
