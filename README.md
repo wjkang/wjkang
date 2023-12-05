@@ -1,5 +1,5 @@
 <div align="center">
-  <table border="0" style="overflow: hidden">
+  <table border="0" width="90%" style="overflow: hidden">
     <tr>
       <td>
         <a href="https://wjkang.github.io/">
