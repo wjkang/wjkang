@@ -23,14 +23,14 @@
         </a>
       </td>
       <td>
-<!--         <a href="https://juejin.cn/user/1767670426385528/posts" target="_blank">
+        <a href="https://juejin.cn/user/1767670426385528/posts" target="_blank">
           <img
             src="https://juejin-five.vercel.app/api/juejin"
             alt="若邪的掘金数据"
             style="zoom: 100%"
             align="left"
           />
-        </a> -->
+        </a>
       </td>
     </tr>
     <tr>
