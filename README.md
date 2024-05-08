@@ -25,7 +25,7 @@
       <td>
 <!--         <a href="https://juejin.cn/user/1767670426385528/posts" target="_blank">
           <img
-            src="https://fj2ceu17ik.us.aircode.run/juejin"
+            src="https://juejin-five.vercel.app/api/juejin"
             alt="若邪的掘金数据"
             style="zoom: 100%"
             align="left"
