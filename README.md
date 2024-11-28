@@ -57,7 +57,11 @@
           />
         </a>
       </td>
-      <td></td>
+      <td> <a href="https://github.com/lowcoding/lowcode-uTools-docs" target="_blank">
+          <img
+            src="https://github-readme-stats.vercel.app/api/pin/?username=lowcoding&repo=lowcode-uTools-docs&show_owner=true"
+          />
+        </a></td>
     </tr>
   </table>
 </div>
