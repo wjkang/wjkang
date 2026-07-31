@@ -18,7 +18,7 @@
       <td>
         <a href="https://wjkang.github.io/">
           <img
-            src="https://github-readme-stats.vercel.app/api?username=wjkang&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&count_private=true&hide_border=true"
+            src="https://github-stats-extended.vercel.app/api?username=wjkang&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&count_private=true&hide_border=true"
           />
         </a>
       </td>
