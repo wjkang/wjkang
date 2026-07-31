@@ -37,14 +37,14 @@
       <td>
         <a href="https://github.com/lowcoding/lowcode-vscode" target="_blank">
           <img
-            src="https://github-readme-stats.vercel.app/api/pin/?username=lowcoding&repo=lowcode-vscode&show_owner=true"
+            src="https://github-stats-extended.vercel.app/api/pin/?username=lowcoding&repo=lowcode-vscode&show_owner=true"
           />
         </a>
       </td>
       <td>
         <a href="https://github.com/lowcoding/lowcode-mock" target="_blank">
           <img
-            src="https://github-readme-stats.vercel.app/api/pin/?username=lowcoding&repo=lowcode-mock&show_owner=true"
+            src="https://github-stats-extended.vercel.app/api/pin/?username=lowcoding&repo=lowcode-mock&show_owner=true"
           />
         </a>
       </td>
@@ -53,13 +53,13 @@
       <td>
         <a href="https://github.com/lowcode-scaffold/lowcode-materials" target="_blank">
           <img
-            src="https://github-readme-stats.vercel.app/api/pin/?username=lowcode-scaffold&repo=lowcode-materials&show_owner=true"
+            src="https://github-stats-extended.vercel.app/api/pin/?username=lowcode-scaffold&repo=lowcode-materials&show_owner=true"
           />
         </a>
       </td>
       <td> <a href="https://github.com/lowcoding/lowcode-uTools-docs" target="_blank">
           <img
-            src="https://github-readme-stats.vercel.app/api/pin/?username=lowcoding&repo=lowcode-uTools-docs&show_owner=true"
+            src="https://github-stats-extended.vercel.app/api/pin/?username=lowcoding&repo=lowcode-uTools-docs&show_owner=true"
           />
         </a></td>
     </tr>
